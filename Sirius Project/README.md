@@ -1,7 +1,7 @@
 
 ## Sirius Project
 
-The goal of this project will be the creation of a full fledged graphical Designer. In order to realize this designer, you can reuse your work for realized during the tutorial or you can use your own dedicated Ecore meta-model. A good starting point would be to use the family metamodel (not the basic family one) or another one like the metamodel of the Dart Designer.
+The goal of this project will be the creation of a full fledged graphical Designer. In order to realize this designer, you can reuse your work for realized during the tutorial or you can use your own dedicated Ecore meta-model. A good starting point would be to use the Dart Designer [metamodel](https://github.com/dartdesigner/Dart-Designer) or a custom one. You can improve the family metamodel if you want.
 
 Your designer must contain the following features :
 
