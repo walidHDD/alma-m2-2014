@@ -15,12 +15,12 @@ Your designer must contain the following features :
 
 5 - Add a filter to hide the bordered node mapping
 
-6 - Creation tool, direct edit tool
+6 - Add mapping and edge creation tools and a direct edit tool for one of your mapping.
 
-7 - Diagram representation -> navigation and representation creation tool (double click)
+7 - Add an additional diagram representation and create a representation navigation and representation creation tool (triggered by a double click on a node mapping for example).
 
 8 - Add conditional styles
 
-9 - Unsynchronized mapping -> add existing elements
+9 - Convert one of your node mapping to be an unsynchronized node mapping and add an action to add existing elements
 
-10 - Tree based representation
+10 - Add a tree based representation to your viewpoint
