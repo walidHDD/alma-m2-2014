@@ -9,7 +9,7 @@ Your designer must contain the following features :
 
 2 - This representation should contain an additional layer showing new node mappings.
 
-3 - Create an additional representation showing two different kinds of edge mapping
+3 - Create two different kinds of edge mapping
 
 4 - Add a validation rule
 
