@@ -5,9 +5,9 @@ The goal of this project will be the creation of a full fledged graphical Design
 
 Your designer must contain the following features :
 
-1 - One viewpoint containing a Diagram representation. This representation should contain a default layer with a node mapping, a container mapping, a bordered node mapping and a list container mapping.
+1 - One viewpoint containing a Diagram representation. This representation should contain a default layer with a node mapping, a container mapping, a bordered node mapping and a list container mapping with some child nodes.
 
-2 - This representation should contain an additional layer showing sub nodes of the list container mapping.
+2 - This representation should contain an additional layer showing new node mappings.
 
 3 - Create an additional representation showing two different kinds of edge mapping
 
